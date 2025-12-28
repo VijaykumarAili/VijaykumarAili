@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Current Working on My Skills<br>I'm Learning The Skills Which Can Make Me a Software Developer<br>I'm Learning Database And API<br>I Want Become an Aspiring Software Developer
+I'm Currently Working on My Skills<br>I'm Learning The Skills Which Can Make Me a Software Developer<br>I'm Learning Database And API<br>I Want Become an Aspiring Software Developer
 
 
 ## 🌐 Socials:
